@@ -247,3 +247,39 @@ color: #757575;
     color: #FFFFFF;
     
 }
+.connect{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+.connect .sections-title{
+    text-align: left;
+    font-weight: 700;
+font-size: 35px;
+line-height: 48px;
+margin-bottom: 20px;
+
+}
+.connect .connect-des{
+    font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+color: #474747;
+margin-bottom: 20px;
+}
+
+.connect input[type="text"], input[type="email"], textarea{
+    margin-bottom: 20px;
+    border: 0;
+    width: 100%;
+    padding-left: 30px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+.input{
+    height: 64px;
+}
+
+.connect a{
+    text-decoration: none;
+}
